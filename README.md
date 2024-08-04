@@ -14,7 +14,7 @@ To use this age calculator app, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/age-calculator-app.git
+    git clone https://github.com/abdulaziz-M895/age-calculator-app.git
     ```
 
 2. Navigate to the project directory:
